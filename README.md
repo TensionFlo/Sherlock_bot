@@ -1,2 +1,2 @@
 # Sherlock_bot
-A discord bot which replies like Sherlock Holmes.
+A discord bot which converses like Sherlock Holmes.
